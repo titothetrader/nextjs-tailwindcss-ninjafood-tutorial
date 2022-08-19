@@ -1,0 +1,3 @@
+Open project and run dev environment:
+npm run dev
+
